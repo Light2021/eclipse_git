@@ -6,6 +6,6 @@ public class Hello
 	{
 		System.out.println("hello world");
 		
-		System.out.println("second");
+		System.out.println("This is the content in the master branch");
 	}
 }
